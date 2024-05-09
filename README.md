@@ -34,7 +34,7 @@ Explore the API documentation on [Swagger Hub](https://app.swaggerhub.com/apis/i
 - **RESTful APIs**: Utilized for communication between the client-side and server-side components, facilitating the exchange of data in a standardized and stateless manner.
 - **Git**: Version control system used for managing project source code, enabling collaboration among team members and maintaining code integrity.
 - **Maven**: Dependency management tool used for building, packaging, and managing project dependencies, ensuring consistent and reproducible builds.
-- **IDE**: Integrated Development Environment such as IntelliJ IDEA or Eclipse used for coding, debugging, and managing project files efficiently.
+- **IDE**: Integrated Development Environment  IntelliJ IDEA  used for coding, debugging, and managing project files efficiently.
 
 ## Features:
 
