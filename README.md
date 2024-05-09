@@ -21,7 +21,7 @@ Explore the API documentation on [Swagger Hub](https://app.swaggerhub.com/apis/i
 
 ## ERD
 
-![ERD](https://github.com/itsomar278/InventoryManegement/blob/master/441762895_1493567014907178_6352571478588964617_n.png)
+![ERD](https://github.com/itsomar278/InventoryManegement/blob/master/441940597_1400330960670271_2374676386017745582_n.png)
 
 ## Technologies Used:
 
