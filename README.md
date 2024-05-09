@@ -48,6 +48,10 @@ Explore the API documentation on [Swagger Hub](https://app.swaggerhub.com/apis/i
 4. Run the application: `java -jar target/inventory-management-system.jar`
 5. Access the application via the provided base URL and explore the functionalities through the Swagger Hub.
 
+## Postman Tests Collection:
+
+Explore the API tests collection on [GitHub](https://github.com/itsomar278/InventoryManegement/blob/master/InventoryManegement.postman_collection.json).
+
 ## Contributors:
 
 - [Omar Badawi](https://github.com/itsomar278)
