@@ -19,6 +19,10 @@ Explore the API documentation on [Swagger Hub](https://app.swaggerhub.com/apis/i
 ### Products:
 - [Products Design](https://github.com/itsomar278/InventoryManegement/blob/master/products.md)
 
+## ERD
+
+![ERD](https://github.com/itsomar278/InventoryManegement/blob/master/441762895_1493567014907178_6352571478588964617_n.png)
+
 ## Technologies Used:
 
 - **Java**: The core programming language used for building the application logic.
