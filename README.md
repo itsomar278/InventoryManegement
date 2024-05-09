@@ -8,7 +8,7 @@ Explore the API documentation on [Swagger Hub](https://app.swaggerhub.com/apis/i
 ## Design Files:
 
 ### Customers:
-- [Customers Design]((https://github.com/itsomar278/InventoryManegement/blob/master/customers.md))
+- [Customers Design](https://github.com/itsomar278/InventoryManegement/blob/master/customers.md)
 
 ### Warehouses:
 - [Warehouses Design](https://github.com/itsomar278/InventoryManegement/blob/master/warehouse.md)
@@ -54,7 +54,5 @@ Explore the API documentation on [Swagger Hub](https://app.swaggerhub.com/apis/i
 
 
 
-## License:
 
-This project is licensed under the [MIT License](LICENSE).
 
